@@ -45,6 +45,9 @@ This tool helps with coloring chocobo by showing how many and in what order of e
 ## [Etro Gear sets](https://etro.gg/gearset)
 Useful for trying to determine what gear and materia you should prioritize. Gear sets can even be shared with other players. More useful near the end of the game than the start.
 
+## [Garland Tools](https://garlandtools.org/)
+Useful for looking up a particular item and viewing it in 3D. Also has various timers and fishing tools.
+
 # Discords
 ## [Centurio Hunts](https://discord.gg/centuriohunts)
 Sign up for a FATE or hunt you need to down and you'll get notified when it's up. Since a bunch of the community uses this server, there will be plenty of people there too!
