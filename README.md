@@ -81,7 +81,7 @@ Below is a list of general tips and tricks that I found useful. Use at your disc
 
 
 ## [DPS Meter/Parser & MopiMopi](https://youtu.be/urZTrF864x8)
-**WARNING** Never tell anyone in game you are using a damage meter, you will be banned! **WARNING**
+⚠ Never mention in game you are using a damage meter, you will be banned! ⚠
 
 Walk-through for setting up Advanced Combat Tracker (ACT) and the MopiMopi overlay. Displays how much damage you and your party members are dealing. Essential tool for getting better at the game.
 
@@ -93,3 +93,9 @@ Custom shaders for Final Fantasy 14. Makes the game a bit more vibrant. Exercise
 
 ## [Maygi's POTD 1-200 Handbook](https://docs.google.com/document/d/e/2PACX-1vQpzFuhmSwTXuZSmtnKLNgQ0nRhumCFaB8NvCXFXSjrBHPRT5lXY8jMR4RaCK1aNfcl_G5ph5DNNwfl/pub#id.y1uv222l53b5)
 Highly informative and in-depth google doc for completing Palace of the Dead. I refer to this constantly on solo attempts.
+
+
+## [XIVLauncher](https://github.com/goatcorp/FFXIVQuickLauncher/releases/tag/6.3.1)
+⚠ Never mention in game you are using plugins or a custom launcher, you will be banned! ⚠
+
+Custom launcher for Final Fantasy XIV. In addition to launching the game, it also launches the  [Dalamud Plugin Framework](https://github.com/goatcorp/Dalamud) which enables custom plugins that support a wide variety of quality of life improvements to the game. It's also possible to have the launcher start ACT automatically when the game starts. The launcher also allows saving XIV credentials so a username and password don't have to be entered on every login.
