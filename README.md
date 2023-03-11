@@ -28,6 +28,9 @@ Official hub for Final Fantasy 14. Contains patch notes, character profiles, dev
 ## [Official FF14 Play Guide - Housing](https://na.finalfantasyxiv.com/lodestone/playguide/contentsguide/housing_land/)
 Housing chapter of the official Final Fantasy 14 play guide. Contains helpful information including plot restrictions, limitations, pricing, and information on how to buy a house.
 
+## [PaissaDB](https://zhu.codes/paissa)
+Database of available housing plots in each world. Scrapes data using a [plugin](https://github.com/zhudotexe/FFXIV_PaissaHouse#lottery-sweeps) if you'd like to contribute.
+
 # Tools
 
 ## [Mini-Cactpot](https://super-aardvark.github.io/yuryu/)
