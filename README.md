@@ -22,8 +22,11 @@ Guides offering in-depth explanation of how each of the jobs work, what their sk
 ## [Official FF14 Job Guides](https://na.finalfantasyxiv.com/jobguide/battle)
 Not as in-depth as the Icy Veins guides will be, but great when you first pick up a job. It is mostly a list of all the skills the job can do and where to unlock it.
 
-## [FF14 Lodestone](https://na.finalfantasyxiv.com/lodestone/)
+## [Official FF14 Lodestone](https://na.finalfantasyxiv.com/lodestone/)
 Official hub for Final Fantasy 14. Contains patch notes, character profiles, dev blogs, server status, upcoming maintenance, and more.
+
+## [Official FF14 Play Guide - Housing](https://na.finalfantasyxiv.com/lodestone/playguide/contentsguide/housing_land/)
+Housing chapter of the official Final Fantasy 14 play guide. Contains helpful information including plot restrictions, limitations, pricing, and information on how to buy a house.
 
 # Tools
 
@@ -88,14 +91,16 @@ Walk-through for setting up Advanced Combat Tracker (ACT) and the MopiMopi overl
 ## [FFLogs](https://www.fflogs.com/)
 Upload and view damage logs captured by ACT. Upload your own with their [uploader application](https://www.fflogs.com/client/download).
 
-## [G-Shade](https://gposers.com/gshade/)
-Custom shaders for Final Fantasy 14. Makes the game a bit more vibrant. Exercise caution when picking a shader as some drag CPU/GPU performance down! Seems to be compatible with other games too.
+## [ReShade](https://reshade.me/)
+Custom shaders for video games. While there exists a variety of games and shaders that can be used with ReShade, for Final Fantasy 14 specifically, I suggest Ipsusu's shaders and guide which can be found [here](https://github.com/ipsusu/IpsuShade#brief-reshade-install-guide-for-ffxiv).
 
-## [Maygi's POTD 1-200 Handbook](https://docs.google.com/document/d/e/2PACX-1vQpzFuhmSwTXuZSmtnKLNgQ0nRhumCFaB8NvCXFXSjrBHPRT5lXY8jMR4RaCK1aNfcl_G5ph5DNNwfl/pub#id.y1uv222l53b5)
-Highly informative and in-depth google doc for completing Palace of the Dead. I refer to this constantly on solo attempts.
-
+## [Maygi's Deep Dungeon Guidebook](https://docs.google.com/document/d/1wc0LHgUZmmqMUnRflZsDxc3JtHS0dxO9D4WH--UQk_E/preview#)
+Highly informative and in-depth google doc for completing Palace of the Dead, Heaven on High, and Eureka Orthos.
 
 ## [XIVLauncher](https://github.com/goatcorp/FFXIVQuickLauncher/releases/tag/6.3.1)
 ⚠ Never mention in game you are using plugins or a custom launcher, you will be banned! ⚠
 
 Custom launcher for Final Fantasy XIV. In addition to launching the game, it also launches the  [Dalamud Plugin Framework](https://github.com/goatcorp/Dalamud) which enables custom plugins that support a wide variety of quality of life improvements to the game. It's also possible to have the launcher start ACT automatically when the game starts. The launcher also allows saving XIV credentials so a username and password don't have to be entered on every login.
+
+## [Wyn's Relic Tracker](https://docs.google.com/spreadsheets/d/1I2ahF7oFw6WN1nz-f8gzuqJvq1kG2K3MMq-O4U759dw/edit#gid=831614995)
+Great for tracking progress on relic weapons across all expansions.
