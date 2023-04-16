@@ -64,6 +64,12 @@ Similar to the aforementioned Icy Veins Job Guides but in discord format.
 ## [Blue Academy](https://discord.gg/blueacademy)
 Very helpful information on the Blue Mage class. The "Headmaster" Liam Galt also has a fantastic [youtube channel](https://www.youtube.com/c/BlueAcademy) where he uploads how to do tons of Blue Mage related activities.
 
+## [The Help Lines](https://discord.com/invite/Nnkq9UW)
+Hosts events for a variety of group content, [Baldesion Arsenal](https://ffxiv.consolegameswiki.com/wiki/The_Baldesion_Arsenal) in particular.
+
+## [Lego Steppers](https://discord.com/invite/YKP76AsMw8)
+Hosts [Delubrum Reginae Savage](https://ffxiv.consolegameswiki.com/wiki/Delubrum_Reginae_(Savage)) runs.
+
 # Disciple of Hand and Land
 
 ## [TeamCraft](https://ffxivteamcraft.com)
