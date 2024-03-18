@@ -1,9 +1,14 @@
-Here's a dump of all the links I use frequently for FF14.
+# Table of Contents
+- [General Information](#general-information)
+- [Job and Class Specific Information](#job-and-class-specific-information)
+- [Tools](#tools)
+- [Discords](#discords)
+- [Settings and Controls](#settings-and-controls)
 
-# Information
+# General Information
 
 ## [Console Games Wiki](https://ffxiv.consolegameswiki.com/wiki/FF14_Wiki)
-I always have this page open while playing. Tons of good information.
+Unofficial wiki page for Final Fantasy 14.
 
 ## [Heavenswhere](http://heavenswhere.com/)
 Maps with points of interest. Very useful for:
@@ -16,12 +21,6 @@ Maps with points of interest. Very useful for:
 ## [Eorzea Collection](https://ffxiv.eorzeacollection.com/)
 Website dedicated to cool glamour sets. Can help with glamour ideas. Has a nice level of detailed filtering to help find the perfect outfit.
 
-## [Icy Veins Job Guides](https://www.icy-veins.com/ffxiv/final-fantasy-xiv-job-guides)
-Guides offering in-depth explanation of how each of the jobs work, what their skills do, when you should be using those skills, and what gear they should use.
-
-## [Official FF14 Job Guides](https://na.finalfantasyxiv.com/jobguide/battle)
-Not as in-depth as the Icy Veins guides will be, but great when you first pick up a job. It is mostly a list of all the skills the job can do and where to unlock it.
-
 ## [Official FF14 Lodestone](https://na.finalfantasyxiv.com/lodestone/)
 Official hub for Final Fantasy 14. Contains patch notes, character profiles, dev blogs, server status, upcoming maintenance, and more.
 
@@ -31,7 +30,44 @@ Housing chapter of the official Final Fantasy 14 play guide. Contains helpful in
 ## [PaissaDB](https://zhu.codes/paissa)
 Database of available housing plots in each world. Scrapes data using a [plugin](https://github.com/zhudotexe/FFXIV_PaissaHouse#lottery-sweeps) if you'd like to contribute.
 
+## [Maygi's Deep Dungeon Guidebook](https://docs.google.com/document/d/1wc0LHgUZmmqMUnRflZsDxc3JtHS0dxO9D4WH--UQk_E/preview#)
+Highly informative and in-depth google doc for completing Palace of the Dead, Heaven on High, and Eureka Orthos.
+
+# Job and Class Specific Information
+
+## [Icy Veins Job Guides](https://www.icy-veins.com/ffxiv/final-fantasy-xiv-job-guides)
+Guides offering in-depth explanation of how each of the jobs work, what their skills do, when you should be using those skills, and what gear they should use.
+
+## [Official FF14 Job Guides](https://na.finalfantasyxiv.com/jobguide/battle)
+Not as in-depth as the Icy Veins guides will be, but great when you first pick up a job. It is mostly a list of all the skills the job can do and where to unlock it.
+
+## [Wesk Alber's Leveling Guides](https://www.youtube.com/watch?v=DJQKqKWn8Zg&list=PLoXER4idrFLb3lsk2Y6g0VmVrWqmIovFT&pp=iAQB)
+Helpful guides for leveling up a job. Whereas the Official and Icy Veins job guides are great for playing a job at max level, these guides aim to provide information for the levels in between.
+
+# [XIVLauncher](https://github.com/goatcorp/FFXIVQuickLauncher/releases/tag/6.3.1)
+⚠ Never mention in game you are using plugins or a custom launcher, you will be banned! ⚠
+
+Custom launcher for Final Fantasy XIV. In addition to launching the game, it also launches the  [Dalamud Plugin Framework](https://github.com/goatcorp/Dalamud) which enables custom plugins that support a wide variety of quality of life improvements to the game. It's also possible to have the launcher start ACT automatically when the game starts. The launcher also allows saving XIV credentials so a username and password don't have to be entered on every login. This is also the best way to play the game on an unsupported operating system like Linux.
+
 # Tools
+
+## DPS Meter and Parsing
+⚠ Never mention in game you are using a damage meter, you will be banned! ⚠
+
+Damager per second is measured in this game using either a standalone tool called [ACT](https://youtu.be/urZTrF864x8) or the XIVLauncher plugin [IINACT](https://www.iinact.com/installation/). Both tools work fine so pick whichever one works for you.
+
+ACT has the 14 overlay kind of baked in and also does not require the XIVLauncher be installed, unlike IINACT. This overlay can be floated to another monitor.
+
+IINACT purely uses websocket which can be viewed from a web browser or by downloading another XIVLauncher plugin like Browsingway from the in game addons menu. Sine IINACT is working purely off the Dalamud plugin engine running in the XIVLauncher and displaying data to a websocket viewable by any sort of browser, it is also vastly easier to get setup and running on Linux.
+
+## [FFLogs](https://www.fflogs.com/)
+View battle logs. Upload your own with their [uploader application](https://www.fflogs.com/client/download).
+
+## [ReShade](https://reshade.me/)
+Custom shaders for video games. While there exists a variety of games and shaders that can be used with ReShade, for Final Fantasy 14 specifically, I suggest Ipsusu's shaders and guide which can be found [here](https://github.com/ipsusu/IpsuShade#brief-reshade-install-guide-for-ffxiv).
+
+## [TeamCraft](https://ffxivteamcraft.com)
+Crafting rotations and simulations as well as the tools to create your own.
 
 ## [Mini-Cactpot](https://super-aardvark.github.io/yuryu/)
 Once a day mini-cactpot can be played for MGP after unlocking the [Gold Saucer](https://ffxiv.consolegameswiki.com/wiki/The_Gold_Saucer). This tool will provides the best chance at consistently winning the most MGP.
@@ -54,6 +90,9 @@ Useful for trying to determine what gear and materia you should prioritize. Gear
 ## [Garland Tools](https://garlandtools.org/)
 Useful for looking up a particular item and viewing it in 3D. Also has various timers and fishing tools.
 
+## [Wyn's Relic Tracker](https://docs.google.com/spreadsheets/d/11N-u7o2-0cbL4E61rfpXHgAPK2X8S_lwyFUigKAQb08/edit#gid=831614995)
+Great for tracking progress on relic weapons across all expansions.
+
 # Discords
 ## [Centurio Hunts](https://discord.gg/centuriohunts)
 Sign up for a FATE or hunt you need to down and you'll get notified when it's up. Since a bunch of the community uses this server, there will be plenty of people there too!
@@ -70,15 +109,8 @@ Hosts events for a variety of group content, [Baldesion Arsenal](https://ffxiv.c
 ## [Lego Steppers](https://discord.com/invite/YKP76AsMw8)
 Hosts [Delubrum Reginae Savage](https://ffxiv.consolegameswiki.com/wiki/Delubrum_Reginae_(Savage)) runs.
 
-# Disciple of Hand and Land
 
-## [TeamCraft](https://ffxivteamcraft.com)
-Crafting rotations and simulations as well as the tools to create your own.
-
-## [Ishgardian Restoration and relic guide](https://docs.google.com/document/d/1vgtU7HFtG87TrJ9U47vnzkFMhSl5HKz7bjJhRXbxaas/edit#)
-Information on Firmament and Diadem. I mostly used this doc for macros when levelling up a DOH in the Firmament.
-
-# Other
+# Settings and Controls
 
 ## In-game settings, tips, and tricks
 Below is a list of general tips and tricks that I found useful. Use at your discretion as you won't find all of them cater to you.
@@ -87,29 +119,12 @@ Below is a list of general tips and tricks that I found useful. Use at your disc
 
  - [Convenient Tricks That Make FFXIV Better](https://youtu.be/8KLc6dcrKyI)
 
- - [AkhMorning's Controller Guide](https://www.akhmorning.com/resources/controller-guide) Click on the "PAGES IN THIS GUIDE" on the left of the screen
-
  - [Macros to USE | Macros to AVOID](https://youtu.be/57F70wOh_18)
 
+## Controller
+ - [AkhMorning's Controller Guide](https://www.akhmorning.com/resources/controller-guide)
+    - Click on the "PAGES IN THIS GUIDE" on the left of the screen
 
-## [DPS Meter/Parser & MopiMopi](https://youtu.be/urZTrF864x8)
-⚠ Never mention in game you are using a damage meter, you will be banned! ⚠
+ - [Bun Boss's Controller Guide](https://youtu.be/xDlc-laLbmM?si=NcffRVTIJZzerVXH)
 
-Walk-through for setting up Advanced Combat Tracker (ACT) and the MopiMopi overlay. Displays how much damage you and your party members are dealing. Essential tool for getting better at the game.
-
-## [FFLogs](https://www.fflogs.com/)
-Upload and view damage logs captured by ACT. Upload your own with their [uploader application](https://www.fflogs.com/client/download).
-
-## [ReShade](https://reshade.me/)
-Custom shaders for video games. While there exists a variety of games and shaders that can be used with ReShade, for Final Fantasy 14 specifically, I suggest Ipsusu's shaders and guide which can be found [here](https://github.com/ipsusu/IpsuShade#brief-reshade-install-guide-for-ffxiv).
-
-## [Maygi's Deep Dungeon Guidebook](https://docs.google.com/document/d/1wc0LHgUZmmqMUnRflZsDxc3JtHS0dxO9D4WH--UQk_E/preview#)
-Highly informative and in-depth google doc for completing Palace of the Dead, Heaven on High, and Eureka Orthos.
-
-## [XIVLauncher](https://github.com/goatcorp/FFXIVQuickLauncher/releases/tag/6.3.1)
-⚠ Never mention in game you are using plugins or a custom launcher, you will be banned! ⚠
-
-Custom launcher for Final Fantasy XIV. In addition to launching the game, it also launches the  [Dalamud Plugin Framework](https://github.com/goatcorp/Dalamud) which enables custom plugins that support a wide variety of quality of life improvements to the game. It's also possible to have the launcher start ACT automatically when the game starts. The launcher also allows saving XIV credentials so a username and password don't have to be entered on every login.
-
-## [Wyn's Relic Tracker](https://docs.google.com/spreadsheets/d/1I2ahF7oFw6WN1nz-f8gzuqJvq1kG2K3MMq-O4U759dw/edit#gid=831614995)
-Great for tracking progress on relic weapons across all expansions.
+ - [Gamer_Debbie's Controller Guide](https://youtu.be/NAJxNYwYPrA?si=QUxCRC5aVACvfGuC)
