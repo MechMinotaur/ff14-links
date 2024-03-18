@@ -1,6 +1,7 @@
 # Table of Contents
 - [General Information](#general-information)
 - [Job and Class Specific Information](#job-and-class-specific-information)
+- [XIVLauncher](#xivlauncher)
 - [Tools](#tools)
 - [Discords](#discords)
 - [Settings and Controls](#settings-and-controls)
