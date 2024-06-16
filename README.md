@@ -108,7 +108,10 @@ Very helpful information on the Blue Mage class. The "Headmaster" Liam Galt also
 Hosts events for a variety of group content, [Baldesion Arsenal](https://ffxiv.consolegameswiki.com/wiki/The_Baldesion_Arsenal) in particular.
 
 ## [Lego Steppers](https://discord.com/invite/YKP76AsMw8)
-Hosts [Delubrum Reginae Savage](https://ffxiv.consolegameswiki.com/wiki/Delubrum_Reginae_(Savage)) runs.
+Hosts [Delubrum Reginae Savage](https://ffxiv.consolegameswiki.com/wiki/Delubrum_Reginae_(Savage)) runs on the Aether data center.
+
+## [Primal Eureka & Bozja Enjoyers (PEBE)](https://discord.gg/pebe)
+Hosts Delubrum Reginae Savage runs on the Primal data center. Also does Eureka stuff.
 
 
 # Settings and Controls
