@@ -13,16 +13,6 @@
 
 Unofficial wiki page for Final Fantasy 14.
 
-## [Heavenswhere](http://heavenswhere.com/)
-
-Maps with points of interest. Very useful for:
-
-- [Aether Currents](https://ffxiv.consolegameswiki.com/wiki/Aether_Currents)
-- [The Hunt](https://ffxiv.consolegameswiki.com/wiki/The_Hunt)
-- [Treasure Hunt](https://ffxiv.consolegameswiki.com/wiki/Treasure_Hunt)
-- [FATEs](https://ffxiv.consolegameswiki.com/wiki/FATEs)
-- [Sightseeing Log](https://ffxiv.consolegameswiki.com/wiki/Sightseeing_Log)
-
 ## [Eorzea Collection](https://ffxiv.eorzeacollection.com/)
 
 Website dedicated to cool glamour sets. Can help with glamour ideas. Has a nice level of detailed filtering to help find the perfect outfit.
@@ -69,7 +59,7 @@ Custom launcher for Final Fantasy XIV. In addition to launching the game, it als
 
 ⚠ Never mention in game you are using a damage meter, you will be banned! ⚠
 
-Damager per second is measured in this game using either a standalone tool called [ACT](https://youtu.be/urZTrF864x8) or the XIVLauncher plugin [IINACT](https://www.iinact.com/installation/). Both tools work fine so pick whichever one works for you.
+Damage per second is measured in this game using either a standalone tool called [ACT](https://youtu.be/urZTrF864x8) or the XIVLauncher plugin [IINACT](https://www.iinact.com/installation/). Both tools work fine so pick whichever one works for you.
 
 ACT has the 14 overlay kind of baked in and also does not require the XIVLauncher be installed, unlike IINACT. This overlay can be floated to another monitor.
 
@@ -118,6 +108,10 @@ Useful for looking up a particular item and viewing it in 3D. Also has various t
 ## [Wyn's Relic Tracker](https://docs.google.com/spreadsheets/d/11N-u7o2-0cbL4E61rfpXHgAPK2X8S_lwyFUigKAQb08/edit#gid=831614995)
 
 Great for tracking progress on relic weapons across all expansions.
+
+## [Faux Hollows Solver](https://sturalke.github.io/FauxHollowsProbabilisticSolver/)
+
+Solves the [Faux Hollows](https://ffxiv.consolegameswiki.com/wiki/Faux_Hollows) puzzle.
 
 # Discords
 
