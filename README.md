@@ -166,3 +166,8 @@ Below is a list of general tips and tricks that I found useful. Use at your disc
 - [Bun Boss's Controller Guide](https://youtu.be/xDlc-laLbmM?si=NcffRVTIJZzerVXH)
 
 - [Gamer_Debbie's Controller Guide](https://youtu.be/NAJxNYwYPrA?si=QUxCRC5aVACvfGuC)
+
+- [XIV Bars](https://www.xivbbars.com)
+  - Helpful website containing layouts for each job.
+  - You can create your own or import one someone else created and shared.
+  - Great website, but it is a bit underrated and therefore underused.
