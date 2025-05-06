@@ -77,6 +77,10 @@ Custom shaders for video games. While there exists a variety of games and shader
 
 Crafting rotations and simulations as well as the tools to create your own.
 
+## [Raphael FFXIV Crafting Solver](https://www.raphael-xiv.com/)
+
+Really good solver for crafting. Enter your stats and click Solve and get crafting macros.
+
 ## [Mini-Cactpot](https://super-aardvark.github.io/yuryu/)
 
 Once a day mini-cactpot can be played for MGP after unlocking the [Gold Saucer](https://ffxiv.consolegameswiki.com/wiki/The_Gold_Saucer). This tool will provides the best chance at consistently winning the most MGP.
